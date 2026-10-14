@@ -1,5 +1,7 @@
 # The Council
 
+![The Council](assets/thumbnail.png)
+
 A multi-agent project review pipeline that runs entirely on your own machine. You give it a project idea; three AI personas analyze it independently, debate each other, and a fourth model turns the whole discussion into a project plan and a ready-to-use project-manager prompt.
 
 Everything runs locally through [Ollama](https://ollama.com). No API keys, no cloud, no data leaves your computer.
